@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoderApp", "CoderApp.csproj", "{A8C6F48E-FD9A-4D78-A6A2-D93789F2979C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modelos", "Modelos.csproj", "{A8C6F48E-FD9A-4D78-A6A2-D93789F2979C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "..\Datos\Datos.csproj", "{EEEEC9ED-91F4-4AA2-891A-1B32A2EF1D11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A8C6F48E-FD9A-4D78-A6A2-D93789F2979C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8C6F48E-FD9A-4D78-A6A2-D93789F2979C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8C6F48E-FD9A-4D78-A6A2-D93789F2979C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEEEC9ED-91F4-4AA2-891A-1B32A2EF1D11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEEEC9ED-91F4-4AA2-891A-1B32A2EF1D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEEEC9ED-91F4-4AA2-891A-1B32A2EF1D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEEEC9ED-91F4-4AA2-891A-1B32A2EF1D11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

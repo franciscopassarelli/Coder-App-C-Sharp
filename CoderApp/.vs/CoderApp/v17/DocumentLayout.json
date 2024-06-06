@@ -1,10 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\franc\\OneDrive\\Desktop\\CursadaC#\\CoderApp\\",
+  "WorkspaceRootPath": "C:\\Users\\franc\\OneDrive\\Desktop\\CursadaC#\\Coder-App-C-Sharp\\CoderApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8C6F48E-FD9A-4D78-A6A2-D93789F2979C}|CoderApp.csproj|c:\\users\\franc\\onedrive\\desktop\\cursadac#\\coderapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8C6F48E-FD9A-4D78-A6A2-D93789F2979C}|CoderApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8C6F48E-FD9A-4D78-A6A2-D93789F2979C}|Modelos.csproj|c:\\users\\franc\\onedrive\\desktop\\cursadac#\\coder-app-c-sharp\\coderapp\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C6F48E-FD9A-4D78-A6A2-D93789F2979C}|Modelos.csproj|solutionrelative:venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEEEC9ED-91F4-4AA2-891A-1B32A2EF1D11}|..\\Datos\\Datos.csproj|c:\\users\\franc\\onedrive\\desktop\\cursadac#\\coder-app-c-sharp\\datos\\ventadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C6F48E-FD9A-4D78-A6A2-D93789F2979C}|CoderApp.csproj|C:\\Users\\franc\\OneDrive\\Desktop\\CursadaC#\\Coder-App-C-Sharp\\CoderApp\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C6F48E-FD9A-4D78-A6A2-D93789F2979C}|CoderApp.csproj|solutionrelative:venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEEEC9ED-91F4-4AA2-891A-1B32A2EF1D11}|..\\Datos\\Datos.csproj|c:\\users\\franc\\onedrive\\desktop\\cursadac#\\coder-app-c-sharp\\datos\\productovendidodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEEEC9ED-91F4-4AA2-891A-1B32A2EF1D11}|..\\Datos\\Datos.csproj|c:\\users\\franc\\onedrive\\desktop\\cursadac#\\coder-app-c-sharp\\datos\\usuariodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEEEC9ED-91F4-4AA2-891A-1B32A2EF1D11}|..\\Datos\\Datos.csproj|c:\\users\\franc\\onedrive\\desktop\\cursadac#\\coder-app-c-sharp\\datos\\productodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C6F48E-FD9A-4D78-A6A2-D93789F2979C}|Modelos.csproj|C:\\Users\\franc\\OneDrive\\Desktop\\CursadaC#\\Coder-App-C-Sharp\\CoderApp\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C6F48E-FD9A-4D78-A6A2-D93789F2979C}|Modelos.csproj|solutionrelative:producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C6F48E-FD9A-4D78-A6A2-D93789F2979C}|CoderApp.csproj|C:\\Users\\franc\\OneDrive\\Desktop\\CursadaC#\\Coder-App-C-Sharp\\CoderApp\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C6F48E-FD9A-4D78-A6A2-D93789F2979C}|CoderApp.csproj|solutionrelative:producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C6F48E-FD9A-4D78-A6A2-D93789F2979C}|Modelos.csproj|C:\\Users\\franc\\OneDrive\\Desktop\\CursadaC#\\Coder-App-C-Sharp\\CoderApp\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C6F48E-FD9A-4D78-A6A2-D93789F2979C}|Modelos.csproj|solutionrelative:usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C6F48E-FD9A-4D78-A6A2-D93789F2979C}|CoderApp.csproj|C:\\Users\\franc\\OneDrive\\Desktop\\CursadaC#\\Coder-App-C-Sharp\\CoderApp\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C6F48E-FD9A-4D78-A6A2-D93789F2979C}|CoderApp.csproj|solutionrelative:usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +46,133 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\CursadaC#\\CoderApp\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\CursadaC#\\CoderApp\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\CursadaC#\\Coder-App-C-Sharp\\CoderApp\\Venta.cs",
+              "RelativeDocumentMoniker": "Venta.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\CursadaC#\\Coder-App-C-Sharp\\CoderApp\\Venta.cs",
+              "RelativeToolTip": "Venta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T04:18:09.24Z",
+              "WhenOpened": "2024-06-06T20:45:45.039Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VentaData.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\CursadaC#\\Coder-App-C-Sharp\\Datos\\VentaData.cs",
+              "RelativeDocumentMoniker": "..\\Datos\\VentaData.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\CursadaC#\\Coder-App-C-Sharp\\Datos\\VentaData.cs",
+              "RelativeToolTip": "..\\Datos\\VentaData.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAnwCMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:42:48.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoVendidoData.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\CursadaC#\\Coder-App-C-Sharp\\Datos\\ProductoVendidoData.cs",
+              "RelativeDocumentMoniker": "..\\Datos\\ProductoVendidoData.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\CursadaC#\\Coder-App-C-Sharp\\Datos\\ProductoVendidoData.cs",
+              "RelativeToolTip": "..\\Datos\\ProductoVendidoData.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAkwHIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:41:54.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\CursadaC#\\Coder-App-C-Sharp\\CoderApp\\Producto.cs",
+              "RelativeDocumentMoniker": "Producto.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\CursadaC#\\Coder-App-C-Sharp\\CoderApp\\Producto.cs",
+              "RelativeToolTip": "Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:27:09.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\CursadaC#\\Coder-App-C-Sharp\\CoderApp\\Usuario.cs",
+              "RelativeDocumentMoniker": "Usuario.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\CursadaC#\\Coder-App-C-Sharp\\CoderApp\\Usuario.cs",
+              "RelativeToolTip": "Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA+wAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:27:09.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductoData.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\CursadaC#\\Coder-App-C-Sharp\\Datos\\ProductoData.cs",
+              "RelativeDocumentMoniker": "..\\Datos\\ProductoData.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\CursadaC#\\Coder-App-C-Sharp\\Datos\\ProductoData.cs",
+              "RelativeToolTip": "..\\Datos\\ProductoData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:21:05.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioData.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\CursadaC#\\Coder-App-C-Sharp\\Datos\\UsuarioData.cs",
+              "RelativeDocumentMoniker": "..\\Datos\\UsuarioData.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\CursadaC#\\Coder-App-C-Sharp\\Datos\\UsuarioData.cs",
+              "RelativeToolTip": "..\\Datos\\UsuarioData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T20:18:53.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\CursadaC#\\Coder-App-C-Sharp\\CoderApp\\Venta.cs",
+              "RelativeDocumentMoniker": "Venta.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\CursadaC#\\Coder-App-C-Sharp\\CoderApp\\Venta.cs",
+              "RelativeToolTip": "Venta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T04:59:10.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\CursadaC#\\Coder-App-C-Sharp\\CoderApp\\Usuario.cs",
+              "RelativeDocumentMoniker": "Usuario.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\CursadaC#\\Coder-App-C-Sharp\\CoderApp\\Usuario.cs",
+              "RelativeToolTip": "Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T04:58:47.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Desktop\\CursadaC#\\Coder-App-C-Sharp\\CoderApp\\Producto.cs",
+              "RelativeDocumentMoniker": "Producto.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Desktop\\CursadaC#\\Coder-App-C-Sharp\\CoderApp\\Producto.cs",
+              "RelativeToolTip": "Producto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T04:54:01.642Z"
             }
           ]
         }

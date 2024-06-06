@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoderApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c439418aa16879d8986c5fe1bd5907e087fb5ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoderApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoderApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

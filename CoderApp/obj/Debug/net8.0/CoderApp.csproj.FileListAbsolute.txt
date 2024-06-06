@@ -2,3 +2,8 @@ C:\Users\franc\OneDrive\Desktop\CursadaC#\CoderApp\obj\Debug\net8.0\CoderApp.Gen
 C:\Users\franc\OneDrive\Desktop\CursadaC#\CoderApp\obj\Debug\net8.0\CoderApp.AssemblyInfoInputs.cache
 C:\Users\franc\OneDrive\Desktop\CursadaC#\CoderApp\obj\Debug\net8.0\CoderApp.AssemblyInfo.cs
 C:\Users\franc\OneDrive\Desktop\CursadaC#\CoderApp\obj\Debug\net8.0\CoderApp.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Desktop\CursadaC#\Coder-App-C-Sharp\CoderApp\obj\Debug\net8.0\CoderApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Desktop\CursadaC#\Coder-App-C-Sharp\CoderApp\obj\Debug\net8.0\CoderApp.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Desktop\CursadaC#\Coder-App-C-Sharp\CoderApp\obj\Debug\net8.0\CoderApp.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Desktop\CursadaC#\Coder-App-C-Sharp\CoderApp\obj\Debug\net8.0\CoderApp.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Desktop\CursadaC#\Coder-App-C-Sharp\CoderApp\obj\Debug\net8.0\CoderApp.sourcelink.json
